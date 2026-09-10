@@ -1,6 +1,6 @@
 # directory-scanner
 
-`directory-fuzzer` is a short and simple Python directory enumeration tool that I created for use in my own cybersecurity projects and labs. I may continue updating and improving it in the future.
+`directory-scanner` is a short and simple Python directory enumeration tool that I created for use in my own cybersecurity projects and labs. I may continue updating and improving it in the future.
 
 The script goes through each entry in the wordlist provided with the `-w` option and sends requests to the target URL provided with `-u`. It then checks the responses to identify potentially existing directories or pages.
 
